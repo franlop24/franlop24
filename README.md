@@ -11,9 +11,11 @@ Bienvenido a mi perfil de GitHub. Aquí encontrarás mis proyectos, colaboracion
 
 ## 📫 Cómo contactarme
 
-- Email: franlopbri@gmail.com
-- Twitter: [@franlop84](https://x.com/franlop84)
+[![Email](https://img.shields.io/badge/Email-franlopbri@gmail.com-red?style=flat-square&logo=gmail)](mailto:franlopbri@gmail.com)
 
+[![X.com](https://img.shields.io/badge/X.com-@franlop84-1DA1F2?style=flat-square&logo=x&logoColor=white)](https://x.com/franlop84)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-franlop24-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/franlop24/)
 ------
 <h3 align="left">Lenguajes y Herramientas:</h3>
 <table>
@@ -64,6 +66,12 @@ Bienvenido a mi perfil de GitHub. Aquí encontrarás mis proyectos, colaboracion
   </a>
 </div>
 
+## 🛠️ Tecnologías más utilizadas
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=franlop24&theme=radical" alt="Repos per language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=franlop24&theme=radical" alt="Most commit language"/>
+</p>
 
 ------
 
